@@ -8,9 +8,11 @@ import datetime
 OFFSETY = {
     "SR7PA": 2716,
     "SR7LDZ": 926,
+    "SR7LD": 2162,
+    "SR7SI": 2049,
 }
 
-MIN_SYGNAL_DB = -60
+MIN_SYGNAL_DB = -68
 MIN_DLUGOSC_S = 20
 
 
