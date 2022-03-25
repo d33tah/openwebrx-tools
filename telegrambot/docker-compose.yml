@@ -2,3 +2,5 @@ version: '3.0'
 services:
     telegrambot:
         build: .
+        environment:
+            PYTHONUNBUFFERED: 1
