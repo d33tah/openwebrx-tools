@@ -13,7 +13,7 @@ OFFSETS = {
 }
 
 MIN_SIGNAL_DB = -68
-MIN_LENGTH_S = 20
+MIN_LENGTH_S = 1
 
 
 def maybe_log_contact(k, v, ts, contact_since):
